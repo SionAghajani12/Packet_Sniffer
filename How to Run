@@ -1,0 +1,3 @@
+This project is coded in Python and the program should run on Python3 based on Linux OS some libraries don't work on Mac Os and Windows
+When running the program it may need to be configured as an executable script which we can do by only running this command on terminal "Chmod +x Packet_Sniffer.py"
+For running properly the script should run with the sudo command
